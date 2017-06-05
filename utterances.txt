@@ -1,0 +1,3 @@
+GetFact tell me a bird fact
+GetFact tell me something about birds
+GetFact what is a cool fact about birds
